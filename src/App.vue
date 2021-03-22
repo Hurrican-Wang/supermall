@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    
+    <div>
+      测试的
+    </div>
   </div>
 </template>
 
