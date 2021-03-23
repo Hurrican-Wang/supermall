@@ -11,7 +11,7 @@
 
 <script>
   import NavBar from 'components/common/navbar/NavBar'
-  import HomeSwiper from './homeswiper/HomeSwiper'
+  import HomeSwiper from './childComps/HomeSwiper'
   import {getHomeMultidata} from 'network/home'
   
   
